@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.nyc_output
+coverage
+.vscode
+**/.DS_Store
+.zip
+
+node_modules
+.env
