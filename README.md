@@ -13,7 +13,7 @@ Rename `template.env` to `.env` and replace the following placeholders:
 
 |Placeholder|   |
 |---|---|
-|`__TEST_TOKEN_VALUE__`|__Hardcoded token value used in the testing suite.__|
+|`__TEST_TOKEN_VALUE__`|__Hardcoded token value used in [the testing suite](index.js#L17C41-L17C61).__|
 
 
 ## Usage
@@ -24,7 +24,7 @@ Rename `template.env` to `.env` and replace the following placeholders:
 or
 ```yarn start-server```
 
-2. (Running the test suite) While the API server is running, in the project directory, run:
+2. (Running the test suite) While the API server is running, in the project directory run:
 
 ```npm run start```
 or
